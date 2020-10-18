@@ -1,1 +1,1 @@
-# pytest-BDD
+# pytest-BDD (not Page Object Model)
